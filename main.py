@@ -92,7 +92,6 @@ def procesar_archivo_audio(file_path, duracion_chunk_segundos=60):
 
 
 if __name__ == "__main__":
-    file_paths = "G:\\Mi unidad\\PKM\\002 - Profesional\\002-1 Racks Academy\\Aula Triple A\\Audios"
     for file_name in os.listdir(file_paths):
         file_path = os.path.join(file_paths, file_name)
         procesar_archivo_audio(file_path)
