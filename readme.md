@@ -15,8 +15,7 @@
 <code>API_KEY=your_groq_api_key_here</code>
 
 <h2>Usage</h2>
-<p>Run the script to process the audio files within the specified directory:</p>
-<code>python main.py</code>
+<p>Run the script to process the audio files within the specified directory: audio
 
 <h2>Dependencies</h2>
 <ul>
@@ -24,13 +23,6 @@
 <li>wave - Reads and writes WAV files.</li>
 <li>groq - Interacts with Groq's transcription API.</li>
 </ul>
-
-<h2>External Tools and Libraries</h2>
-<p>The following images show the libraries and APIs used in this project:</p>
-<img src="https://your_image_hosting/dotenv_logo.png" alt="dotenv library logo" />
-<img src="https://your_image_hosting/wave_library_image.png" alt="Wave library image" />
-<img src="https://your_image_hosting/groq_api_image.png" alt="Groq API logo" />
-
 
 </body>
 </html>
